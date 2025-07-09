@@ -27,7 +27,7 @@
 	<musique>
 
 		<son picto="picto0" posPicto="40,80">
-			<swf>costume-v1/1_lead.swf</swf>
+			<swf>costume-v1/percussion_beat_1.swf</swf>
 			<mp3>sound-v1/percussion_beat_1.mp3</mp3>
 		</son>
 		<son picto="picto1" posPicto="40,80">
