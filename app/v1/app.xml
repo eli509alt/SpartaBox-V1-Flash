@@ -13,11 +13,11 @@
 <root>
 
 	<appInfo>
-		<name>Alpha</name>
+		<name>Sparta 300</name>
 		<version>1</version>
-		<annee>2009</annee>
-		<duree>5.333</duree>
-		<frame>256</frame>
+		<annee>2007</annee>
+		<duree>6.875</duree>
+		<frame>165</frame>
 		<bonusloopA>true</bonusloopA>
 		<volencode>0.8</volencode>  <!-- I dont even know what is this -->
 	</appInfo>
